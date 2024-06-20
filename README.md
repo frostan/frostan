@@ -15,8 +15,13 @@
 
 ## Социальные сети:
 <div>
-  <a href="https://discord.com/users/frostyan"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" title="Мой профиль в дискорде" alt="discord_logo" width="60" height="60" /></a>
-  <a href="https://t.me/getheup"><img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" title="Мой телеграм" alt="telegram_logo" width="40" height="40"/></a>
+  
+</div>
+
+### Связаться со мной:
+<div align="center">
+ <a href="https://t.me/getheup"><img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" title="Мой телеграм" alt="telegram_logo" width="60" height="60"/></a>
+ <a href="https://discord.com/users/frostyan"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" title="Мой профиль в дискорде" alt="discord_logo" width="60" height="60" /></a>
 </div>
   
 <!--
