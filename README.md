@@ -17,6 +17,7 @@
  <a href="https://t.me/getheup"><img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" title="Мой телеграм" alt="telegram_logo" width="50" height="50"/></a>
  <a href="https://discord.com/users/frostyan"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" title="Мой профиль в дискорде" alt="discord_logo" width="50" height="50" /></a>
  <a href="https://www.codewars.com/users/frostan"><img src="https://github.com/codewars/branding/blob/master/logo.png?raw=true" title="Мой профиль в CodeWars" alt="codewars_logo" width="50" height="50"/></a>
+  <a href="https://stepik.org/users/640898067/profile"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Stepik_logotype.png" title="Мой профиль на Stepik" alt="stepik_logo" width="50" height="50" /><a/>
 </div>
 <img src="https://raw.githubusercontent.com/frostan/frostan/602a3cf9f36321e6a3f19638e61c883adc57d714/github-contribution-grid-snake.svg"/>
 
