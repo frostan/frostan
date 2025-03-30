@@ -20,7 +20,7 @@
   <img src="" title="" alt=""/>
 </div>
 
-<h2 align="left">Социальные сети</h2>
+<h2 align="left">📫 How to reach me:</h2>
 <div align="left">
  <a href="https://t.me/getheup"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Мой телеграм" alt="telegram_logo"/></a>
  <a href="mailto:tosha.cherckashin@yandex.ru"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" title="Мой профиль в дискорде" alt="discord_logo"/></a>
