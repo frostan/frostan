@@ -2,18 +2,23 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjA5OGFjcXM0NGVnZ3E2cHc0Y3p6eHQxZmg0YnJpZ3hoY211dml1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
 </div>
-<h2 align="center">⚡Technologies</h2>
+<h2 align="left">⚡Technologies:</h2>
 <div align="left">
-  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" title="Python" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain.svg" title="Django" alt="Django" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/djangorest/djangorest-original.svg" title="Django-REST" alt="Django-REST" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pytest/pytest-original.svg" title="Pytest" alt="Pytest" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="python" alt="python"/>
+  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" title="pycharm" alt="pycharm"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" title="django" alt="django"/>
+  <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" title="django-rest" alt="django-rest"/>
+  <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" title="fastapi" alt="fastapi"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" title="postman" alt="postman"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" title="Docker" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" title="nginx" alt=""/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=Pydantic&logoColor=white" title="pydantic" alt="pydantic"/>
+  <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" title="redis" alt="redis"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="postgresql" alt="postgresql"/>
 </div>
 
-<h2 align="center">Социальные сети</h2>
-<div align="center">
+<h2 align="left">Социальные сети</h2>
+<div align="left">
  <a href="https://t.me/getheup"><img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" title="Мой телеграм" alt="telegram_logo" width="50" height="50"/></a>
  <a href="https://discord.com/users/frostyan"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" title="Мой профиль в дискорде" alt="discord_logo" width="50" height="50" /></a>
  <a href="https://www.codewars.com/users/frostan"><img src="https://github.com/codewars/branding/blob/master/logo.png?raw=true" title="Мой профиль в CodeWars" alt="codewars_logo" width="50" height="50"/></a>
