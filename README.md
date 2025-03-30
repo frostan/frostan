@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" title="django" alt="django"/>
   <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" title="django-rest" alt="django-rest"/>
   <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" title="fastapi" alt="fastapi"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-00FA9A.svg?style=for-the-badge&logo=SQLAlchemy&logoColor=white" title="sqlalchemy" alt="sqlalchemy"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-008080.svg?style=for-the-badge&logo=SQLAlchemy&logoColor=white" title="sqlalchemy" alt="sqlalchemy"/>
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=Pydantic&logoColor=white" title="pydantic" alt="pydantic"/>
   <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" title="redis" alt="redis"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="postgresql" alt="postgresql"/>
