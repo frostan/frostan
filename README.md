@@ -26,7 +26,6 @@
  <a href="mailto:tosha.cherckashin@yandex.ru"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" title="Мой профиль в дискорде" alt="discord_logo"/></a>
  <a href="https://discord.com/users/frostyan"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" title="Мой профиль в дискорде" alt="discord_logo"/></a>
 </div>
-<img src="https://raw.githubusercontent.com/frostan/frostan/602a3cf9f36321e6a3f19638e61c883adc57d714/github-contribution-grid-snake.svg"/>
 
 <!--
 **frostan/frostan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
