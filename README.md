@@ -4,7 +4,7 @@
 </div>
 <h2 align="center">⚡Technologies</h2>
 <div align="left">
-  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" title="Python" alt="Python" width="60" height="60"/>
+  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" title="Python" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain.svg" title="Django" alt="Django" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/djangorest/djangorest-original.svg" title="Django-REST" alt="Django-REST" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="60" height="60"/>
